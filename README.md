@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @yvonnegichovi
-- 👀 I’m interested in Full stack engineering
-- 🌱 I’m currently learning software engineering at ALX
-- 💞️ I’m looking to collaborate with active and aspiring software engineers    
+- 👀 Full stack engineer
+- 🌱 Alumni of ALX SWE and PLP Software Development Programs
+- 🌱 I’m currently learning software engineering at Agility Africa
+- 💞️ I’m looking to participate in Open Source Coding
+- 💞️ I’m looking to collaborate with active and aspiring software engineers on projects   
 - ⚡ Fun fact: they say the first rule of software development is if it works don't touch it, but what if you tinker just a little...?
 
 <!---
